@@ -5,9 +5,9 @@ public class Customer
 	String lastName;
 	int customerID;
 	int lessonID;
-    int numLesson;
+    	int numLesson;
 	String selectedLesson;
-    boolean registered; //Variable supposed to be called from register() class
+    	boolean registered; //Variable supposed to be called from register() class
         
 	public String BookLesson()
 	{
